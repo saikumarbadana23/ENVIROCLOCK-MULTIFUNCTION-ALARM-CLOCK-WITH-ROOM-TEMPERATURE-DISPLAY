@@ -12,6 +12,8 @@ Real-Time Clock Display
 shows hour,minute,second,day,date,month,year on a16x2 lcd.
 Temperature Display:
 Uses LM35 sensor to measure and display room temperature
+Interrupt:
+external interrupt for editing and setting alarm
 Menu Driven using keypad
 1:RTC EDIT
 2:SET ALARM
