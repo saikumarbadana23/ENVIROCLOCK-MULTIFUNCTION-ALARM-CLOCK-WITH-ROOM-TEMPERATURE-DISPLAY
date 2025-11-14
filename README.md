@@ -1,12 +1,12 @@
 # ENVIROCLOCK-MULTIFUNCTION-ALARM-CLOCK-WITH-ROOM-TEMPERATURE-DISPLAY
 EnviroClock An embedded c project on LPC2148 featuring real time clock display,date/day editing through keypad,interrupts,alarm setting with buzzer control,and room temperature monitoring using LM35 sensor
 HardWare Used:
-LPC2148 Microcontroller
-16x2 LCD Display
-Lm35 Temperature Sensor
-4x4 Keypad
-Buzzer
-Switches
+LPC2148 Microcontroller,
+16x2 LCD Display,
+Lm35 Temperature Sensor,
+4x4 Keypad,
+Buzzer,
+Switches,
 Features:
 Real-Time Clock Display
 shows hour,minute,second,day,date,month,year on a16x2 lcd.
